@@ -65,7 +65,7 @@ Tecnologías Utilizadas
 Instalación y Uso
 
 1- Clona el repositorio desde GitHub
-git clone git@github.com:DavidFuertes/ExperienciasDiferentes.git
+git clone git@github.com:JorgeOrtegaGuedes/ExperienciasDiferentes.git
 
 2- Instala las dependencias del servidor tanto en el backend como en el frontend:
 cd Backend
