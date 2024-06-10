@@ -1,0 +1,22 @@
+.headerEd {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  background-color: #f8f8f8;
+  flex-wrap: wrap-reverse;
+}
+
+.logoHeader {
+  height: 10vh;
+  margin-right: 10px;
+
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+
+
